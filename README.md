@@ -1,6 +1,6 @@
 ## Description
 
-Simple e-commerce cart application.
+Simple shopping cart application, this app have a friendly user experience with instant visual updates that connected to a backend code and real db.
 Build with React and Reshuffle platform.
 
 <p>
