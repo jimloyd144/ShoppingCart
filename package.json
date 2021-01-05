@@ -10,7 +10,7 @@
     "@reshuffle/fetch-runtime": "0.0.5",
     "@reshuffle/local-proxy": "^0.2.12",
     "@reshuffle/server-function": "0.0.6",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "babel-polyfill": "^6.26.0",
     "concurrently": "^4.0.1",
     "cors": "^2.8.5",
